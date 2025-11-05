@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Soares</h1>
 <h3 align="center">I'm coursing computer science</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucas-dimitri" alt="lucas-dimitri" /></a> </p>
-
 - 🔭 I’m currently working on a private full-stack project and building my sebsite profile [mySite](https://github.com/Lucas-Dimitri/mySite)
 
 - 🌱 I’m currently learning **react, bootstrap and php**
@@ -20,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-dimitri&show_icons=true&locale=en" alt="lucas-dimitri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-dimitri&" alt="lucas-dimitri" /></p>
+
