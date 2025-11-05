@@ -47,6 +47,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Lucas-Dimitri/Lucas-Dimitri/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Light](https://github.com/<your-username>/<your-username>/blob/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/<your-username>/<your-username>/blob/output/snake-dark.svg#gh-dark-mode-only)
 
 ###
