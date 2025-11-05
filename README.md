@@ -2,13 +2,7 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="left">💻 I'm currently working on a private full stack project, and developing my website portfolio</h3>
-
-###
-
-<h3 align="left">💻 Atualmente estou trabalhando em um projeto full stack privado e desenvolvendo meu site portfólio pessoal.</h3>
+<h3 align="left">💻 I'm currently working on a private full stack project, and developing my website portfolio.<br>Atualmente estou trabalhando em um projeto full stack privado e desenvolvendo meu site portfólio pessoal.</h3>
 
 ###
 
