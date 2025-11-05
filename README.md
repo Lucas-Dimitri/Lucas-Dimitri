@@ -47,8 +47,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Lucas-Dimitri/Lucas-Dimitri/output/snake.svg" alt="Snake animation" />
 
 ###
