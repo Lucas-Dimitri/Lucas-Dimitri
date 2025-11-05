@@ -47,8 +47,7 @@
 
 ###
 
-![Snake animation](https://github.com/lucasdev/lucasdev/blob/output/snake.svg)
-![GitHub Snake Light](https://github.com/<your-username>/<your-username>/blob/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/<your-username>/<your-username>/blob/output/snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/Lucas-Dimitri/Lucas-Dimitri/blob/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Lucas-Dimitri/Lucas-Dimitri/blob/output/snake-dark.svg#gh-dark-mode-only)
 
 ###
